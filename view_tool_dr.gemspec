@@ -5,7 +5,7 @@ require "view_tool_dr/version"
 Gem::Specification.new do |spec|
   spec.name          = "view_tool_dr"
   spec.version       = ViewToolDr::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Shakil Akbar"]
   spec.email         = ["shakil.akbar@yahoo.com"]
 
   spec.summary       = %q{Various view specific methods for Application I use.}
